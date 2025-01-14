@@ -17,6 +17,12 @@ export default defineUserConfig({
       description: '',
     },
   },
+  head: [
+    // 设置 favor.ico，.vuepress/public 下
+    [
+      'link', {rel: 'icon', href: './logo.png'}
+    ],
+  ],
 
   bundler: viteBundler(),
   shouldPrefetch: false, // 站点较大，页面数量较多时，不建议启用
