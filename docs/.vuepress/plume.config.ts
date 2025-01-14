@@ -96,4 +96,5 @@ export default defineThemeConfig({
        // },
     },
   },
+  footer:{ message: '',copyright: '© Copyright 2025 All Rights Reserved. Proprietary Rights Reserved by CrystalLaser.'},
 })
