@@ -70,6 +70,9 @@ export default defineUserConfig({
     // },
 
     plugins: {
+      // disabled search box
+      search: false
+
       /**
        * Shiki 代码高亮
        * @see https://theme-plume.vuejs.press/config/plugins/code-highlight/
