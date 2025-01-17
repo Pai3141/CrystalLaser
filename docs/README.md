@@ -13,6 +13,8 @@ config:
       tagline: Leading the Future of Laser Acupuncture
       text: The wise physician treats the root cause of illness, not just its symptoms.
   -
+    type: Goods
+  -
     type: features
     features:
       -
@@ -45,9 +47,6 @@ config:
         icon: healthicons:back-pain-24px
         link: '/'
         details: Body aches and pains refer to pain or discomfort in the muscles, joints, or bones of the body, usually accompanied by feelings of fatigue, stiffness, tenderness, and other sensations.
-  -
-    type: Goods  
-  
   -
     type: image-text
     title: 功能

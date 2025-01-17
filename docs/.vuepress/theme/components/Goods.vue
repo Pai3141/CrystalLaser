@@ -1,6 +1,6 @@
 <template>
   <div class="product-container">
-    <h1 class="title">中医药推荐</h1>
+    <h1 class="fancy-title">💞Guess you like!</h1>
     <div class="product-list">
       <div class="product-card" v-for="product in products" :key="product.id">
         <img :src="product.image" alt="product.name" class="product-image" />
@@ -35,6 +35,216 @@ export default {
   data() {
     return {
       products: [
+        {
+          id: 1,
+          name: "枸杞",
+          description: "滋补肝肾，明目安神",
+          price: "12.8",
+          image: "./goods/gouqi.png",
+        },
+        {
+          id: 2,
+          name: "人参",
+          description: "补气养血，强身健体",
+          price: "198.5",
+          image: "./goods/renshen.png",
+        },
+        {
+          id: 3,
+          name: "龙眼干",
+          description: "养血安神，补气提神",
+          price: "28.9",
+          image: "./goods/longyangan.png",
+        },
+        {
+          id: 4,
+          name: "川贝母",
+          description: "润肺止咳，化痰清热",
+          price: "56.7",
+          image: "./goods/gouqi.png",
+        },
+        {
+          id: 5,
+          name: "灵芝",
+          description: "增强免疫，调节身体机能",
+          price: "128.3",
+          image: "./goods/chuanbeimu.png",
+        },
+        {
+          id: 6,
+          name: "黄芪",
+          description: "补气升阳，增强体力",
+          price: "15.0",
+          image: "./goods/huangqi.png",
+        },
+        {
+          id: 1,
+          name: "枸杞",
+          description: "滋补肝肾，明目安神",
+          price: "12.8",
+          image: "./goods/gouqi.png",
+        },
+        {
+          id: 2,
+          name: "人参",
+          description: "补气养血，强身健体",
+          price: "198.5",
+          image: "./goods/renshen.png",
+        },
+        {
+          id: 3,
+          name: "龙眼干",
+          description: "养血安神，补气提神",
+          price: "28.9",
+          image: "./goods/longyangan.png",
+        },
+        {
+          id: 4,
+          name: "川贝母",
+          description: "润肺止咳，化痰清热",
+          price: "56.7",
+          image: "./goods/gouqi.png",
+        },
+        {
+          id: 5,
+          name: "灵芝",
+          description: "增强免疫，调节身体机能",
+          price: "128.3",
+          image: "./goods/chuanbeimu.png",
+        },
+        {
+          id: 6,
+          name: "黄芪",
+          description: "补气升阳，增强体力",
+          price: "15.0",
+          image: "./goods/huangqi.png",
+        },
+        {
+          id: 1,
+          name: "枸杞",
+          description: "滋补肝肾，明目安神",
+          price: "12.8",
+          image: "./goods/gouqi.png",
+        },
+        {
+          id: 2,
+          name: "人参",
+          description: "补气养血，强身健体",
+          price: "198.5",
+          image: "./goods/renshen.png",
+        },
+        {
+          id: 3,
+          name: "龙眼干",
+          description: "养血安神，补气提神",
+          price: "28.9",
+          image: "./goods/longyangan.png",
+        },
+        {
+          id: 4,
+          name: "川贝母",
+          description: "润肺止咳，化痰清热",
+          price: "56.7",
+          image: "./goods/gouqi.png",
+        },
+        {
+          id: 5,
+          name: "灵芝",
+          description: "增强免疫，调节身体机能",
+          price: "128.3",
+          image: "./goods/chuanbeimu.png",
+        },
+        {
+          id: 6,
+          name: "黄芪",
+          description: "补气升阳，增强体力",
+          price: "15.0",
+          image: "./goods/huangqi.png",
+        },
+        {
+          id: 1,
+          name: "枸杞",
+          description: "滋补肝肾，明目安神",
+          price: "12.8",
+          image: "./goods/gouqi.png",
+        },
+        {
+          id: 2,
+          name: "人参",
+          description: "补气养血，强身健体",
+          price: "198.5",
+          image: "./goods/renshen.png",
+        },
+        {
+          id: 3,
+          name: "龙眼干",
+          description: "养血安神，补气提神",
+          price: "28.9",
+          image: "./goods/longyangan.png",
+        },
+        {
+          id: 4,
+          name: "川贝母",
+          description: "润肺止咳，化痰清热",
+          price: "56.7",
+          image: "./goods/gouqi.png",
+        },
+        {
+          id: 5,
+          name: "灵芝",
+          description: "增强免疫，调节身体机能",
+          price: "128.3",
+          image: "./goods/chuanbeimu.png",
+        },
+        {
+          id: 6,
+          name: "黄芪",
+          description: "补气升阳，增强体力",
+          price: "15.0",
+          image: "./goods/huangqi.png",
+        },
+        {
+          id: 1,
+          name: "枸杞",
+          description: "滋补肝肾，明目安神",
+          price: "12.8",
+          image: "./goods/gouqi.png",
+        },
+        {
+          id: 2,
+          name: "人参",
+          description: "补气养血，强身健体",
+          price: "198.5",
+          image: "./goods/renshen.png",
+        },
+        {
+          id: 3,
+          name: "龙眼干",
+          description: "养血安神，补气提神",
+          price: "28.9",
+          image: "./goods/longyangan.png",
+        },
+        {
+          id: 4,
+          name: "川贝母",
+          description: "润肺止咳，化痰清热",
+          price: "56.7",
+          image: "./goods/gouqi.png",
+        },
+        {
+          id: 5,
+          name: "灵芝",
+          description: "增强免疫，调节身体机能",
+          price: "128.3",
+          image: "./goods/chuanbeimu.png",
+        },
+        {
+          id: 6,
+          name: "黄芪",
+          description: "补气升阳，增强体力",
+          price: "15.0",
+          image: "./goods/huangqi.png",
+        },
         {
           id: 1,
           name: "枸杞",
@@ -200,4 +410,23 @@ export default {
     grid-template-columns: 1fr;
   }
 }
+
+.fancy-title {
+  font-size: 2.5rem; /* 设置适中的字体大小 */
+  font-weight: bold; /* 加粗字体 */
+  font-family: Consolas;
+  text-align: left; /* 居中对齐 */
+  color: #e8709a; /* 设置深色字体 */
+  letter-spacing: 1px; /* 设置字母间距 */
+  margin-bottom: 20px; /* 设置底部间距 */
+  padding: 10px; /* 添加内边距 */
+}
+
+/**
+.fancy-title:hover {
+  color: #e74c3c;
+  transform: translateY(0px);
+}
+*/
+
 </style>
