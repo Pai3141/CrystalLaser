@@ -48,3 +48,11 @@
   --vp-c-text-3: rgba(235, 235, 245, 0.38);
   */
 }
+
+
+@media (min-width: 268px) {
+    .content-image[data-v-c6b9f6d2] .vp-image {
+        max-width: 230px;
+        margin: 0 48px;
+    }
+}

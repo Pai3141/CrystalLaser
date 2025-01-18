@@ -1,6 +1,7 @@
 import { defineClientConfig } from 'vuepress/client'
 import Carousel from "./theme/components/Carousel.vue";
 import Goods from "./theme/components/Goods.vue";
+import Product from './theme/components/Product.vue';
 
 // import RepoCard from 'vuepress-theme-plume/features/RepoCard.vue'
 // import NpmBadge from 'vuepress-theme-plume/features/NpmBadge.vue'
@@ -9,7 +10,7 @@ import Goods from "./theme/components/Goods.vue";
 
 // import CustomComponent from './theme/components/Carousel.vue'
 
-// import './theme/styles/custom.css'
+import './theme/styles/custom.css'
 
 export default defineClientConfig({
   enhance({ app }) {
@@ -20,6 +21,7 @@ export default defineClientConfig({
     // app.component('Swiper', Swiper) // you should install `swiper`
     app.component('Carousel', Carousel)
     app.component('Goods', Goods)
+    app.component('Product', Product)
 
     // your custom components
     // app.component('CustomComponent', CustomComponent)

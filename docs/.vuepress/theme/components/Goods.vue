@@ -224,7 +224,7 @@ export default {
 <style scoped>
 /* 商品容器样式 */
 .product-container {
-  padding: 37px;
+  padding: 33px;
   background-color: #f9f9f9;
 }
 
