@@ -49,84 +49,84 @@ export default {
           name: "枸杞",
           description: "滋补肝肾，明目安神",
           price: "12.8",
-          image: "./goods/gouqi.png",
+          image: "../goods/gouqi.png",
         },
         {
           id: 2,
           name: "人参",
           description: "补气养血，强身健体",
           price: "198.5",
-          image: "./goods/renshen.png",
+          image: "../goods/renshen.png",
         },
         {
           id: 3,
           name: "龙眼干",
           description: "养血安神，补气提神",
           price: "28.9",
-          image: "./goods/longyangan.png",
+          image: "../goods/longyangan.png",
         },
         {
           id: 4,
           name: "川贝母",
           description: "润肺止咳，化痰清热",
           price: "56.7",
-          image: "./goods/gouqi.png",
+          image: "../goods/gouqi.png",
         },
         {
           id: 5,
           name: "灵芝",
           description: "增强免疫，调节身体机能",
           price: "128.3",
-          image: "./goods/chuanbeimu.png",
+          image: "../goods/chuanbeimu.png",
         },
         {
           id: 6,
           name: "黄芪",
           description: "补气升阳，增强体力",
           price: "15.0",
-          image: "./goods/huangqi.png",
+          image: "../goods/huangqi.png",
         },
         {
           id: 7,
           name: "枳壳",
           description: "理气宽中，缓解胀气",
           price: "19.8",
-          image: "./goods/zhike.png"
+          image: "../goods/zhike.png"
         },
         {
           id: 8,
           name: "党参",
           description: "补脾养胃，增强免疫",
           price: "38.5",
-          image: "./goods/dangshen.png"
+          image: "../goods/dangshen.png"
         },
         {
           id: 9,
           name: "白芍",
           description: "养血柔肝，缓解肌肉酸痛",
           price: "42.3",
-          image: "./goods/baishao.png"
+          image: "../goods/baishao.png"
         },
         {
           id: 10,
           name: "山药",
           description: "益气养阴，健脾补肾",
           price: "22.9",
-          image: "./goods/shanyao.png"
+          image: "../goods/shanyao.png"
         },
         {
           id: 11,
           name: "桂枝",
           description: "发汗解表，温阳散寒",
           price: "18.5",
-          image: "./goods/guizhi.png"
+          image: "../goods/guizhi.png"
         },
         {
           id: 12,
           name: "红枣",
           description: "养血安神，健脾养胃",
           price: "10.0",
-          image: "./goods/hongzao.png"
+          image: "../goods/hongzao.png"
         },
 
         {
@@ -134,84 +134,84 @@ export default {
           name: "枸杞叶",
           description: "清肝明目，滋补肝肾",
           price: "18.3",
-          image: "./goods/gouqiye.png"
+          image: "../goods/gouqiye.png"
         },
         {
           id: 14,
           name: "白术",
           description: "健脾益气，祛湿止汗",
           price: "35.6",
-          image: "./goods/baizhu.png"
+          image: "../goods/baizhu.png"
         },
         {
           id: 15,
           name: "龙眼肉",
           description: "养心安神，补血益气",
           price: "45.2",
-          image: "./goods/longyanrou.png"
+          image: "../goods/longyanrou.png"
         },
         {
           id: 16,
           name: "菊花",
           description: "清热解毒，明目降压",
           price: "25.4",
-          image: "./goods/juhua.png"
+          image: "../goods/juhua.png"
         },
         {
           id: 17,
           name: "柴胡",
           description: "解表疏肝，调和气机",
           price: "22.0",
-          image: "./goods/chaihu.png"
+          image: "../goods/chaihu.png"
         },
         {
           id: 18,
           name: "枳实",
           description: "理气宽中，消食导滞",
           price: "30.7",
-          image: "./goods/zhishi.png"
+          image: "../goods/zhishi.png"
         },
         {
           id: 19,
           name: "香附",
           description: "疏肝理气，调经止痛",
           price: "21.3",
-          image: "./goods/xiangfu.png"
+          image: "../goods/xiangfu.png"
         },
         {
           id: 20,
           name: "山楂",
           description: "消食健胃，活血化瘀",
           price: "13.2",
-          image: "./goods/shanzha.png"
+          image: "../goods/shanzha.png"
         },
         {
           id: 21,
           name: "当归",
           description: "养血调经，活血止痛",
           price: "39.8",
-          image: "./goods/danggui.png"
+          image: "../goods/danggui.png"
         },
         {
           id: 22,
           name: "灵芝孢子粉",
           description: "提高免疫，抗疲劳",
           price: "68.9",
-          image: "./goods/lingzhibaosifen.png"
+          image: "../goods/lingzhibaosifen.png"
         },
         {
           id: 23,
           name: "牛膝",
           description: "活血祛风，强筋骨",
           price: "28.0",
-          image: "./goods/niuxi.png"
+          image: "../goods/niuxi.png"
         },
         {
           id: 24,
           name: "黄连",
           description: "清热燥湿，泻火解毒",
           price: "52.6",
-          image: "./goods/huanglian.png"
+          image: "../goods/huanglian.png"
         },
 
 
@@ -306,8 +306,8 @@ export default {
   background-color: #e7bf3c;
   color: white;
   border: none;
-  padding: 8px 16px;
-  border-radius: 25px;
+  padding: 8px 10px;
+  border-radius: 19px;
   cursor: pointer;
   transition: background-color 0.3s ease;
   font-size: 1rem;
@@ -342,6 +342,7 @@ export default {
   font-size: 1.5rem; /* 设置适中的字体大小 */
   font-weight: bold; /* 加粗字体 */
   font-family: Consolas;
+  font-style: italic;
   text-align: left; /* 居中对齐 */
   color: #e8709a; /* 设置深色字体 */
   letter-spacing: 1px; /* 设置字母间距 */

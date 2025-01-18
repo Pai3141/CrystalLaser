@@ -2,8 +2,7 @@
 pageLayout: home
 externalLinkIcon: false
 config:
-  -
-    type: banner
+  - type: banner
     banner: ./home-background1.png
     bannerMask:
       light: 0.1
@@ -12,87 +11,76 @@ config:
       name: CrystalLaser
       tagline: Leading the Future of Laser Acupuncture
       text: The wise physician treats the root cause of illness, not just its symptoms.
-#  -
-#    type: Product
-
-  -
-    type: image-text
-    title: 便携式激光针灸仪
-    description: 便携式激光针灸仪有多种款式和型号，可以根据不同的需求进行选择，通过照射穴位，调节身体的气血运行，可以缓解身体的各种不适症状，如颈椎病、肩周炎、腰椎间盘突出等，同时也有助于提高免疫力、促进血液循环等，以此来达到最佳的治疗效果。
+  - type: Custom
+  - type: image-text
+    title: Portable Laser Acupuncture Device
+    description: The portable laser acupuncture device comes in various styles and models, designed to meet different needs. It uses laser light to stimulate acupuncture points, improving Qi and blood circulation while relieving discomforts like cervical spondylosis, frozen shoulder, and lumbar disc herniation. It also boosts immunity and promotes blood flow for effective therapy.
     image: ./product/zhenjiuyi.png
     list:
-      - title: 特点
+      - title: Features
         description:
-          - 多种款式和型号可选，适应不同需求。
-          - 通过激光照射刺激穴位，改善气血运行，缓解各种不适症状。
-          - 便捷易用，无需专业医师操作，适合家庭和个人使用。
-          - 提高免疫力，促进血液循环，有效增强身体自我修复能力。
-      - title: 操作
+          - Multiple styles and models to suit different needs.
+          - Uses laser light to stimulate acupuncture points, improving circulation and alleviating discomfort.
+          - Easy to use, no professional required, ideal for home use.
+          - Boosts immunity and enhances the body’s self-repair capabilities.
+      - title: Operation
         description:
-          - 根据个人需求选择合适的型号和模式，方便快捷进行治疗。
-          - 使用时将设备对准需要治疗的部位，激光照射穴位，通过气血调节达到治疗效果。
-          - 操作简单，非专业人员也能轻松上手，随时随地进行自我治疗。
-      - title: 适用范围
+          - Choose the appropriate model for efficient treatment.
+          - Position the device on the treatment area and use laser light to stimulate acupuncture points.
+          - Simple to use, no professional skills needed for self-treatment.
+      - title: Scope of Use
         description:
-          - 适用于缓解颈椎病、肩周炎、腰椎间盘突出、关节痛等常见的慢性病症。
-          - 适合办公室人群、老年人、运动员等需要缓解身体不适或加速恢复的人群。
-          - 可用于提升免疫力、促进血液循环，增强体力，维持身体健康。
-  -
-    type: image-text
-    title: 激光针灸物理吸盘
-    description: 激光针灸物理吸盘是一种传统的中医治疗器材，该产品采用优质材料制作，安全无害，并且使用寿命长。通过负压作用，将吸盘吸附于皮肤表面，通过激光刺激穴位，改善身体气血循环，缓解身体各种不适症状，如疲劳、肌肉疼痛等。
+          - Relieves chronic conditions like cervical spondylosis, frozen shoulder, and lumbar disc herniation.
+          - Suitable for office workers, elderly, athletes, and anyone seeking relief.
+          - Promotes immunity, circulation, and physical strength for overall health.
+
+  - type: image-text
+    title: Laser Acupuncture Physical Suction Cup
+    description: The laser acupuncture physical suction cup is a traditional Chinese device made from high-quality, durable materials. It uses negative pressure to attach to the skin, and laser light stimulates acupuncture points, improving Qi and blood flow while relieving fatigue and muscle pain.
     image: ./product/wulixipang.png
     list:
-      - title: 特点
+      - title: Features
         description:
-          - 操作简单，适用范围广，能够对多个部位进行同时理疗。
-          - 可以根据个人需求选择不同规格和吸力大小的吸盘，满足不同的理疗需求。
-          - 无需专业医师操作，即使是初学者也能轻松掌握。
-          - 便于携带和存储，方便随时使用。
-      - title: 操作
+          - Easy to use and suitable for multiple treatment areas.
+          - Suction cups in various sizes and strengths for customizable therapy.
+          - No medical expertise required, even beginners can use it.
+          - Portable and easy to store for convenient use anytime, anywhere.
+      - title: Operation
         description:
-          - 将吸盘放置于需要治疗的部位，通过负压作用吸附在皮肤表面。
-          - 激光针灸治疗过程中，通过激光刺激穴位，帮助改善气血循环，缓解肌肉疼痛等不适。
-          - 使用简单，无需专业技能即可操作，用户可以轻松完成理疗。
-      - title: 适用范围
+          - Attach the suction cup to the treatment area using negative pressure.
+          - Laser light stimulates acupuncture points, improving circulation and relieving discomfort.
+          - Simple to operate, no professional skills required.
+      - title: Scope of Use
         description:
-          - 适用于疲劳、肌肉疼痛、肩颈酸痛、腰背不适等症状。
-          - 可广泛应用于家庭、办公室、旅行等场合，适合任何希望缓解身体不适的人群。
-          - 特别适用于日常疲劳、运动后恢复、老年人保健等多种场合。
-          
-  -
-    type: Goods
-  -
-    type: features
+          - Relieves fatigue, muscle pain, neck and shoulder soreness, and lower back discomfort.
+          - Can be used at home, in the office, or while traveling.
+          - Ideal for daily fatigue, post-exercise recovery, and elderly care.
+
+  - type: GoodsEng
+  - type: features
     features:
-      -
-        title: Insomnia and dreaminess
+      - title: Insomnia and Dreaminess
         icon: svg-spinners:wind-toy
         link: '/'
         details: Insomnia is the result of insufficient or poor sleep quality, while dreaminess is a manifestation of blurred consciousness and weakened ability to perceive reality.
-      -
-        title: Diarrhea
+      - title: Diarrhea
         icon: healthicons:diarrhea-outline
         link: '/'
-        details: Diarrhea refers to an increase in the frequency of bowel movements and the resulting stool becoming more watery or watery, usually accompanied by abdominal discomfort. The duration of diarrhea can be acute or chronic.
-      -
-        title: Cough
+        details: Diarrhea refers to an increase in the frequency of bowel movements, and the resulting stool becoming more watery or liquid, usually accompanied by abdominal discomfort. Diarrhea can be either acute or chronic.
+      - title: Cough
         icon: healthicons:coughing-24px
         link: '/'
-        details: Coughing is a common physiological reaction that can be acute or chronic, usually caused by infection, allergies, chronic diseases, or environmental factors
-      -
-        title: Menstrual disorders
+        details: Coughing is a common physiological response, which can be either acute or chronic, usually caused by infections, allergies, chronic diseases, or environmental factors.
+      - title: Menstrual Disorders
         icon: healthicons:mental-disorders-outline
         link: '/'
-        details: Menstrual disorders refer to abnormalities in the menstrual cycle, menstrual flow, and other aspects, usually manifested as symptoms such as excessive or insufficient menstruation, irregular cycles, or lack of menstruation.
-      -
-        title: Chronic gastritis
+        details: Menstrual disorders refer to abnormalities in the menstrual cycle, menstrual flow, or other aspects, often manifested as excessive or insufficient menstruation, irregular cycles, or absence of menstruation.
+      - title: Chronic Gastritis
         icon: material-symbols:chronic-outline
         link: '/'
-        details: Chronic gastritis refers to the long-term inflammation of the gastric mucosa, which may be caused by various factors and is usually accompanied by symptoms such as stomach pain, indigestion, nausea, and bloating.
-      -
-        title: Body aches and pains
+        details: Chronic gastritis refers to long-term inflammation of the gastric mucosa, which may be caused by various factors, and is usually accompanied by symptoms such as stomach pain, indigestion, nausea, and bloating.
+      - title: Body Aches and Pains
         icon: healthicons:back-pain-24px
         link: '/'
-        details: Body aches and pains refer to pain or discomfort in the muscles, joints, or bones of the body, usually accompanied by feelings of fatigue, stiffness, tenderness, and other sensations.
+        details: Body aches and pains refer to discomfort or pain in muscles, joints, or bones, often accompanied by fatigue, stiffness, tenderness, and other sensations.
 ---
