@@ -63,37 +63,31 @@ config:
 
   -
     type: Goods
-  -
-    type: features
+  - type: features
     features:
-      -
-        title: Insomnia and dreaminess
+      - title: 失眠与多梦
         icon: svg-spinners:wind-toy
         link: '/'
-        details: Insomnia is the result of insufficient or poor sleep quality, while dreaminess is a manifestation of blurred consciousness and weakened ability to perceive reality.
-      -
-        title: Diarrhea
+        details: 失眠通常是由于睡眠时间不足或睡眠质量不高引起的，可能导致身体无法得到充分休息。多梦则是睡眠中意识模糊的表现，常伴随感知现实的能力下降，影响第二天的精神状态和体力恢复。
+      - title: 腹泻
         icon: healthicons:diarrhea-outline
         link: '/'
-        details: Diarrhea refers to an increase in the frequency of bowel movements and the resulting stool becoming more watery or watery, usually accompanied by abdominal discomfort. The duration of diarrhea can be acute or chronic.
-      -
-        title: Cough
+        details: 腹泻是指排便次数明显增加，且大便质地变得更加稀薄或水样，通常伴随腹部绞痛或不适。腹泻的原因可能与饮食不当、病毒感染、肠胃炎等因素有关，持续时间可以是短期的急性腹泻，也可能变为长期的慢性腹泻。
+      - title: 咳嗽
         icon: healthicons:coughing-24px
         link: '/'
-        details: Coughing is a common physiological reaction that can be acute or chronic, usually caused by infection, allergies, chronic diseases, or environmental factors
-      -
-        title: Menstrual disorders
+        details: 咳嗽是人体对呼吸道刺激的一种防御性反应，可以是急性咳嗽，也可能发展为慢性咳嗽。常见原因包括感冒、呼吸道感染、过敏反应、环境污染或慢性疾病，如哮喘或支气管炎。
+      - title: 月经不调
         icon: healthicons:mental-disorders-outline
         link: '/'
-        details: Menstrual disorders refer to abnormalities in the menstrual cycle, menstrual flow, and other aspects, usually manifested as symptoms such as excessive or insufficient menstruation, irregular cycles, or lack of menstruation.
-      -
-        title: Chronic gastritis
+        details: 月经不调是指女性在月经周期、月经量或月经规律方面出现异常，可能表现为经期延迟、经量过多、过少或停经等症状。常见原因包括内分泌失调、压力过大、营养不良或某些疾病的影响。
+      - title: 慢性胃炎
         icon: material-symbols:chronic-outline
         link: '/'
-        details: Chronic gastritis refers to the long-term inflammation of the gastric mucosa, which may be caused by various factors and is usually accompanied by symptoms such as stomach pain, indigestion, nausea, and bloating.
-      -
-        title: Body aches and pains
+        details: 慢性胃炎是胃黏膜长期受到炎症刺激导致的病症，可能由细菌感染、长期药物使用、饮食不规律或过度饮酒等因素引起。症状通常包括胃部疼痛、消化不良、恶心、腹胀、食欲不振等。
+      - title: 身体酸痛
         icon: healthicons:back-pain-24px
         link: '/'
-        details: Body aches and pains refer to pain or discomfort in the muscles, joints, or bones of the body, usually accompanied by feelings of fatigue, stiffness, tenderness, and other sensations.
+        details: 身体酸痛通常是由于肌肉过度使用、姿势不当或关节问题引起的疼痛感。常见症状包括肌肉的僵硬、酸痛、压痛及关节的不适，可能伴随疲劳感和活动受限。长时间的不良姿势或缺乏运动也是常见诱因。
+
 ---

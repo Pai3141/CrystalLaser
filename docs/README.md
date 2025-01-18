@@ -61,26 +61,20 @@ config:
     features:
       - title: Insomnia and Dreaminess
         icon: svg-spinners:wind-toy
-        link: '/'
         details: Insomnia is the result of insufficient or poor sleep quality, while dreaminess is a manifestation of blurred consciousness and weakened ability to perceive reality.
       - title: Diarrhea
         icon: healthicons:diarrhea-outline
-        link: '/'
         details: Diarrhea refers to an increase in the frequency of bowel movements, and the resulting stool becoming more watery or liquid, usually accompanied by abdominal discomfort. Diarrhea can be either acute or chronic.
       - title: Cough
         icon: healthicons:coughing-24px
-        link: '/'
         details: Coughing is a common physiological response, which can be either acute or chronic, usually caused by infections, allergies, chronic diseases, or environmental factors.
       - title: Menstrual Disorders
         icon: healthicons:mental-disorders-outline
-        link: '/'
         details: Menstrual disorders refer to abnormalities in the menstrual cycle, menstrual flow, or other aspects, often manifested as excessive or insufficient menstruation, irregular cycles, or absence of menstruation.
       - title: Chronic Gastritis
         icon: material-symbols:chronic-outline
-        link: '/'
         details: Chronic gastritis refers to long-term inflammation of the gastric mucosa, which may be caused by various factors, and is usually accompanied by symptoms such as stomach pain, indigestion, nausea, and bloating.
       - title: Body Aches and Pains
         icon: healthicons:back-pain-24px
-        link: '/'
         details: Body aches and pains refer to discomfort or pain in muscles, joints, or bones, often accompanied by fatigue, stiffness, tenderness, and other sensations.
 ---
