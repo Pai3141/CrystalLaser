@@ -1,7 +1,7 @@
 import { defineNavbarConfig } from 'vuepress-theme-plume'
 
 export const enNavbar = defineNavbarConfig([
-  { text: 'Home', link: '/' },
+  { text: '🥳Welcome to CrystalLaser!', link: '/' },
   // { text: 'Blog', link: '/blog/' },
   // { text: 'Tags', link: '/blog/tags/' },
   // { text: 'Archives', link: '/blog/archives/' },

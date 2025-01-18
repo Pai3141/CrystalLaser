@@ -2,16 +2,16 @@
 pageLayout: home
 externalLinkIcon: false
 config:
-  -
-    type: banner
+  - type: banner
     banner: ./home-background1.png
     bannerMask:
       light: 0.1
       dark: 0.3
     hero:
-      name: CrystalLaser
-      tagline: Leading the Future of Laser Acupuncture
-      text: The wise physician treats the root cause of illness, not just its symptoms.
+      name: 研晶灸微
+      tagline: 国内自研钛宝石激光针灸治疗仪首创者
+      text: 我们秉承“治病求本”的理念，通过创新的激光针灸技术，帮助患者从根本上解决健康问题，而不仅仅是缓解表面症状。水晶激光，开创健康治疗新纪元。
+
   #  -
   #    type: Product  
   -

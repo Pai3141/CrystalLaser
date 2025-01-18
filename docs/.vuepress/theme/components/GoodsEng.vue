@@ -226,15 +226,7 @@ export default {
 /* 商品容器样式 */
 .product-container {
   padding: 33px;
-  background-color: #f9f9f9;
-}
-
-.title {
-  font-size: 2rem;
-  font-weight: bold;
-  text-align: center;
-  color: #333;
-  margin-bottom: 20px;
+  background-color: var(--vp-c-bg);
 }
 
 /* 商品列表样式 */
