@@ -3,7 +3,7 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
-  base: '/CrystalLaser/',
+  base: '/',
   lang: 'en-US',
   locales: {
     '/': {
@@ -12,7 +12,7 @@ export default defineUserConfig({
       description: '',
     },
     '/zh/': {
-      title: 'CrystalLaser',
+      title: '研晶灸微',
       lang: 'zh-CN',
       description: '',
     },

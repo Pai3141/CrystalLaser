@@ -19,20 +19,13 @@ config:
     list:
       - title: Features
         description:
-          - Multiple styles and models to suit different needs.
-          - Uses laser light to stimulate acupuncture points, improving circulation and alleviating discomfort.
-          - Easy to use, no professional required, ideal for home use.
-          - Boosts immunity and enhances the body’s self-repair capabilities.
+          - Multiple styles and models to suit different needs;Uses laser light to stimulate acupuncture points, improving circulation and alleviating discomfort;Easy to use, no professional required, ideal for home use;Boosts immunity and enhances the body’s self-repair capabilities.
       - title: Operation
         description:
-          - Choose the appropriate model for efficient treatment.
-          - Position the device on the treatment area and use laser light to stimulate acupuncture points.
-          - Simple to use, no professional skills needed for self-treatment.
+          - Choose the appropriate model for efficient treatment;Position the device on the treatment area and use laser light to stimulate acupuncture points;Simple to use, no professional skills needed for self-treatment.
       - title: Scope of Use
         description:
-          - Relieves chronic conditions like cervical spondylosis, frozen shoulder, and lumbar disc herniation.
-          - Suitable for office workers, elderly, athletes, and anyone seeking relief.
-          - Promotes immunity, circulation, and physical strength for overall health.
+          - Relieves chronic conditions like cervical spondylosis, frozen shoulder, and lumbar disc herniation;Suitable for office workers, elderly, athletes, and anyone seeking relief;Promotes immunity, circulation, and physical strength for overall health.
 
   - type: image-text
     title: Laser Acupuncture Physical Suction Cup
@@ -41,20 +34,13 @@ config:
     list:
       - title: Features
         description:
-          - Easy to use and suitable for multiple treatment areas.
-          - Suction cups in various sizes and strengths for customizable therapy.
-          - No medical expertise required, even beginners can use it.
-          - Portable and easy to store for convenient use anytime, anywhere.
+          - Easy to use and suitable for multiple treatment areas;Suction cups in various sizes and strengths for customizable therapy;No medical expertise required, even beginners can use it;Portable and easy to store for convenient use anytime, anywhere.
       - title: Operation
         description:
-          - Attach the suction cup to the treatment area using negative pressure.
-          - Laser light stimulates acupuncture points, improving circulation and relieving discomfort.
-          - Simple to operate, no professional skills required.
+          - Attach the suction cup to the treatment area using negative pressure.Laser light stimulates acupuncture points, improving circulation and relieving discomfort;Simple to operate, no professional skills required.
       - title: Scope of Use
         description:
-          - Relieves fatigue, muscle pain, neck and shoulder soreness, and lower back discomfort.
-          - Can be used at home, in the office, or while traveling.
-          - Ideal for daily fatigue, post-exercise recovery, and elderly care.
+          - Relieves fatigue, muscle pain, neck and shoulder soreness, and lower back discomfort;Can be used at home, in the office, or while traveling;Ideal for daily fatigue, post-exercise recovery, and elderly care.
 
   - type: GoodsEng
   - type: features

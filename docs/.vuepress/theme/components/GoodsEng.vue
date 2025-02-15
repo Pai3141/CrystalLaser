@@ -12,7 +12,7 @@
         <div class="product-actions">
           <button class="action-button buy-now">
             <span style="color: #fa5800;font-style:italic;font-weight: bold;padding-right: 5px">${{ product.price }}</span>
-            BUY NOW
+            BUY IT
           </button>
 <!--          <button>-->
 <!--            <svg t="1736848865880" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg"-->
@@ -49,169 +49,169 @@ export default {
         {
           "id": 1,
           "name": "Goji Berries",
-          "description": "Nourishes liver & kidneys, improves eyesight, calms the mind",
-          "price": "12.8",
+          "description": "Nourishes liver/kidneys, enhances vision, calms mind",
+          "price": "1.8",
           "image": "./goods/gouqi.png"
         },
         {
           "id": 2,
           "name": "Ginseng",
-          "description": "Boosts energy, nourishes blood, strengthens the body",
-          "price": "198.5",
+          "description": "Boosts energy, enriches blood, strengthens body",
+          "price": "28.4",
           "image": "./goods/renshen.png"
         },
         {
           "id": 3,
           "name": "Longan Dried Fruit",
-          "description": "Nourishes blood, calms the mind, boosts energy",
-          "price": "28.9",
+          "description": "Nourishes blood, promotes calm, enhances vitality",
+          "price": "4.1",
           "image": "./goods/longyangan.png"
         },
         {
           "id": 4,
           "name": "Fritillaria",
-          "description": "Moisturizes lungs, relieves cough, clears heat",
-          "price": "56.7",
+          "description": "Moisturizes lungs, soothes cough, reduces heat",
+          "price": "8.1",
           "image": "./goods/gouqi.png"
         },
         {
           "id": 5,
           "name": "Reishi Mushroom",
-          "description": "Boosts immunity, regulates body",
-          "price": "128.3",
+          "description": "Enhances immunity, balances body functions",
+          "price": "18.3",
           "image": "./goods/chuanbeimu.png"
         },
         {
           "id": 6,
           "name": "Astragalus",
-          "description": "Boosts energy, strengthens the body",
-          "price": "15.0",
+          "description": "Boosts energy, strengthens physical health",
+          "price": "2.1",
           "image": "./goods/huangqi.png"
         },
         {
           "id": 7,
           "name": "Zhiqiao",
-          "description": "Regulates qi, relieves bloating",
-          "price": "19.8",
+          "description": "Regulates qi flow, reduces bloating",
+          "price": "2.8",
           "image": "./goods/zhike.png"
         },
         {
           "id": 8,
           "name": "Codonopsis",
-          "description": "Tonifies spleen, boosts immunity",
-          "price": "38.5",
+          "description": "Strengthens spleen, enhances immunity",
+          "price": "5.5",
           "image": "./goods/dangshen.png"
         },
         {
           "id": 9,
           "name": "White Peony",
-          "description": "Nourishes blood, softens liver, relieves pain",
-          "price": "42.3",
+          "description": "Enriches blood, soothes liver, eases pain",
+          "price": "6.0",
           "image": "./goods/baishao.png"
         },
         {
           "id": 10,
           "name": "Chinese Yam",
-          "description": "Tonifies qi, nourishes yin, strengthens spleen",
-          "price": "22.9",
+          "description": "Strengthens spleen, nourishes yin, boosts energy",
+          "price": "3.3",
           "image": "./goods/shanyao.png"
         },
         {
           "id": 11,
           "name": "Cinnamon Twig",
-          "description": "Induces sweating, relieves cold, warms yang",
-          "price": "18.5",
+          "description": "Relieves cold, warms yang, induces sweating",
+          "price": "2.6",
           "image": "./goods/guizhi.png"
         },
         {
           "id": 12,
           "name": "Red Dates",
-          "description": "Nourishes blood, strengthens spleen & stomach",
-          "price": "10.0",
+          "description": "Nourishes blood, strengthens spleen/stomach",
+          "price": "1.4",
           "image": "./goods/hongzao.png"
         },
         {
           "id": 13,
           "name": "Goji Leaves",
-          "description": "Clears liver, improves eyesight",
-          "price": "18.3",
+          "description": "Clears liver heat, improves eyesight",
+          "price": "2.6",
           "image": "./goods/gouqiye.png"
         },
         {
           "id": 14,
           "name": "Atractylodes",
-          "description": "Strengthens spleen, expels dampness",
-          "price": "35.6",
+          "description": "Strengthens spleen, eliminates dampness",
+          "price": "5.1",
           "image": "./goods/baizhu.png"
         },
         {
           "id": 15,
           "name": "Longan Flesh",
-          "description": "Nourishes heart, calms the mind, boosts energy",
-          "price": "45.2",
+          "description": "Nourishes heart, calms mind, boosts energy",
+          "price": "6.5",
           "image": "./goods/longyanrou.png"
         },
         {
           "id": 16,
           "name": "Chrysanthemum",
-          "description": "Clears heat, detoxifies, improves eyesight",
-          "price": "25.4",
+          "description": "Clears heat, detoxifies, enhances vision",
+          "price": "3.6",
           "image": "./goods/juhua.png"
         },
         {
           "id": 17,
           "name": "Bupleurum",
           "description": "Relieves cold, soothes liver, regulates qi",
-          "price": "22.0",
+          "price": "3.1",
           "image": "./goods/chaihu.png"
         },
         {
           "id": 18,
-          "name": "Immature Bitter Orange",
-          "description": "Regulates qi, aids digestion",
-          "price": "30.7",
+          "name": "Bitter Orange",
+          "description": "Aids digestion, regulates qi flow",
+          "price": "4.4",
           "image": "./goods/zhishi.png"
         },
         {
           "id": 19,
           "name": "Cyperus",
-          "description": "Regulates liver, relieves pain, aids menstruation",
-          "price": "21.3",
+          "description": "Regulates liver qi, relieves pain",
+          "price": "3.0",
           "image": "./goods/xiangfu.png"
         },
         {
           "id": 20,
           "name": "Hawthorn",
-          "description": "Aids digestion, promotes circulation",
-          "price": "13.2",
+          "description": "Aids digestion, improves circulation",
+          "price": "1.9",
           "image": "./goods/shanzha.png"
         },
         {
           "id": 21,
           "name": "Angelica Sinensis",
-          "description": "Nourishes blood, regulates menstruation, relieves pain",
-          "price": "39.8",
+          "description": "Regulates menstruation, relieves pain",
+          "price": "5.7",
           "image": "./goods/danggui.png"
         },
         {
           "id": 22,
           "name": "Reishi Spore Powder",
-          "description": "Boosts immunity, anti-fatigue",
-          "price": "68.9",
+          "description": "Enhances immunity, reduces fatigue",
+          "price": "9.8",
           "image": "./goods/lingzhibaosifen.png"
         },
         {
           "id": 23,
           "name": "Achyranthes",
-          "description": "Promotes circulation, strengthens tendons & bones",
-          "price": "28.0",
+          "description": "Strengthens tendons, improves circulation",
+          "price": "4.0",
           "image": "./goods/niuxi.png"
         },
         {
           "id": 24,
           "name": "Coptis",
-          "description": "Clears heat, detoxifies",
-          "price": "52.6",
+          "description": "Clears heat, detoxifies body",
+          "price": "7.5",
           "image": "./goods/huanglian.png"
         }
       ]
